@@ -1,6 +1,6 @@
 #include<stdio.h>
 main(){
-    //coments?
-    
+    //comentts?
+
     printf("heyy");
 }
